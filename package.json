@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "webpack": "^5.76.2"
+  },
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "letter.js",
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
+  },
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
